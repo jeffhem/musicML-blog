@@ -1,4 +1,4 @@
-baseURL = "https://jeffhem.github.io/musicML"
+baseURL = "https://jeffhem.github.io/musicML-blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
